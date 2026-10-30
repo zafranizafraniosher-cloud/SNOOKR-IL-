@@ -1,0 +1,6 @@
+{
+  "name": "קהילת הדיסקורד | Discord Server Invite",
+  "description": "אתר הצטרפות לשרת הדיסקורד הרשמי - הצטרפו לקהילה בלחיצת כפתור אחת.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
